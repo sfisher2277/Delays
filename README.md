@@ -10,8 +10,10 @@ The recommendation to senior leadership was to close technical loopholes and mod
 
 ![](https://github.com/sfisher2277/Delays/blob/main/images/Delay%20Time.JPG)
 
+![](https://github.com/sfisher2277/Delays/blob/main/images/Delays%20by%20Code.jpg)
+
 ![](https://github.com/sfisher2277/Delays/blob/main/images/Length%20Delays.JPG)
 
 ![](https://github.com/sfisher2277/Delays/blob/main/images/Delays%20Pie.JPG)
 
-![](https://github.com/sfisher2277/Delays/blob/main/images/Delays%20by%20Code.jpg)
+
