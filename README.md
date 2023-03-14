@@ -1,12 +1,16 @@
 # Flight Delays
 
-Flight delays are coded for company performance evaluation and trend analysis. This project looked at what caused initial delays and how to recover them for better on-time performance.
+Flight delays are coded for company performance evaluation and trend analysis. This project looked at what caused flight delays and how to recover them for better on-time performance.
 
 The focus of the exploration was on the type of delay and in which airports they were occuring. By reorganizing the flight records, I was able to determine that many delays were not coded or were given a generic code of "late in, late out", despite additional delay time being added.
 
-I worked with the department heads of the airport staff and IT to find the loopholes in the process where this was occurring.
+Because I was using flat files of historical records, I was able use some DDL in a copy of the data to better organize everything. The records are chronological, but I realized I needed to order it differently to see how the delays were occuring. There was also a lot of noise in the data that needed to be cleaned out.
 
-The recommendation to senior leadership was to close technical loopholes and modify how delays were tracked for better future evaluation. This led to a 73% reduction in delay time for flights.
+Once that was done, it was clear the two biggest issues were the gap in the data and the catchall code.
+
+I then worked with the department heads of the airport staff and IT to find the loopholes in the process where this was occurring.
+
+The recommendation to senior leadership was to close technical loopholes and modify how delays were tracked for better future evaluation. This led to a 73% reduction in delay time and 47% fewer delays.
 
 ```
 
