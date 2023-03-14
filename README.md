@@ -7,3 +7,11 @@ The focus of the exploration was on the type of delay and in which airports they
 I worked with the department heads of the airport staff and IT to find the loopholes in the process where this was occurring.
 
 The recommendation to senior leadership was to close technical loopholes and modify how delays were tracked for better future evaluation. This led to a 73% reduction in delay time for flights.
+
+![](https://github.com/sfisher2277/Delays/blob/main/images/Delay%20Time.JPG)
+
+![](https://github.com/sfisher2277/Delays/blob/main/images/Length%20Delays.JPG)
+
+![](https://github.com/sfisher2277/Delays/blob/main/images/Delays%20Pie.JPG)
+
+![](https://github.com/sfisher2277/Delays/blob/main/images/Delays%20by%20Code.jpg)
