@@ -12,6 +12,22 @@ I then worked with the department heads of the airport staff and IT to find the 
 
 The recommendation to senior leadership was to close technical loopholes and modify how delays were tracked for better future evaluation. This led to a 73% reduction in delay time and 47% fewer delays.
 
+
+
+![](https://github.com/sfisher2277/Delays/blob/main/images/Delay%20Time.JPG)
+
+
+![](https://github.com/sfisher2277/Delays/blob/main/images/Delays%20by%20Code.jpg)
+
+
+![](https://github.com/sfisher2277/Delays/blob/main/images/Delays%20Pie.JPG)
+
+
+![](https://github.com/sfisher2277/Delays/blob/main/images/Length%20Delays.JPG)
+
+
+
+
 ```
 
 SQL Code for Delays Project
@@ -206,15 +222,5 @@ SELECT * FROM [dbo].[flifoData_2017_2023_DELAYED_MOD]
   
   }
   ```
-
-![](https://github.com/sfisher2277/Delays/blob/main/images/Delay%20Time.JPG)
-
-![](https://github.com/sfisher2277/Delays/blob/main/images/Delays%20by%20Code.jpg)
-
-![](https://github.com/sfisher2277/Delays/blob/main/images/Delays%20Pie.JPG)
-
-![](https://github.com/sfisher2277/Delays/blob/main/images/Length%20Delays.JPG)
-
-
 
 
