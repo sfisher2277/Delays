@@ -6,9 +6,9 @@ The focus of the exploration was on the type of delay and in which airports they
 
 Because I was using flat files of historical records, I was able use some DDL in a copy of the data to better organize everything. The records are chronological, but I realized I needed to order it differently to see how the delays were occuring. There was also a lot of noise in the data that needed to be cleaned out.
 
-Once that was done, it was clear the two biggest issues were the gap in the data and the catchall code.
+Once that was done, it was clear the two biggest issues were the gap in the data by having no codes (represented by the darker blue in the pie charts) and the catchall code. It also became evident which airports were contributing the most to delays.
 
-I then worked with the department heads of the airport staff and IT to find the loopholes in the process where this was occurring.
+I then worked with the department heads of the airport staff and IT to find the loopholes in the process where this was occurring. We also worked together to find a way of communicating the findings to teh airports in a way that kept them from being defensive and get them onboard with reducing delays. We did this by focusing on *what* is right (better customer service and reduced stress for airport employees) and not *who* is right.
 
 The recommendation to senior leadership was to close technical loopholes and modify how delays were tracked for better future evaluation. This led to a 73% reduction in delay time and 47% fewer delays.
 
