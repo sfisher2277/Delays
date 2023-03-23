@@ -8,9 +8,9 @@ Because I was using flat files of historical records, I was able use some DDL in
 
 Once that was done, it was clear the two biggest issues were the gap in the data by having no codes (represented by the darker blue in the pie charts) and the catchall code. It also became evident which airports were contributing the most to delays.
 
-//I then worked with the department heads of the airport staff and IT to find the loopholes in the process where this was occurring. We also worked together to find a way of communicating the findings to teh airports in a way that kept them from being defensive and get them onboard with reducing delays. We did this by focusing on *what* is right (better customer service and reduced stress for airport employees) and not *who* is right.
+<!--I then worked with the department heads of the airport staff and IT to find the loopholes in the process where this was occurring. We also worked together to find a way of communicating the findings to teh airports in a way that kept them from being defensive and get them onboard with reducing delays. We did this by focusing on *what* is right (better customer service and reduced stress for airport employees) and not *who* is right.
 
-The recommendation to senior leadership was to close technical loopholes and modify how delays were tracked for better future evaluation. This led to a 73% reduction in delay time and 47% fewer delays.
+The recommendation to senior leadership was to close technical loopholes and modify how delays were tracked for better future evaluation. This led to a 73% reduction in delay time and 47% fewer delays. -->
 
 
 
