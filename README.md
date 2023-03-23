@@ -14,7 +14,7 @@ The recommendation to senior leadership was to close technical loopholes and mod
 
 
 
-![](https://github.com/sfisher2277/Delays/blob/main/images/Delay%20Time.JPG)
+![](https://github.com/sfisher2277/Delays/blob/main/images/Delay%20Time.jpeg)
 
 
 ![](https://github.com/sfisher2277/Delays/blob/main/images/Delays%20by%20Code.jpg)
